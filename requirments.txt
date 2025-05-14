@@ -1,0 +1,9 @@
+You: hi
+Bot: Hello!
+
+You: how to make pizza
+Bot: No results found or you may have exceeded the daily search limit.
+
+You: apple
+Bot: No results found or you may have exceeded the daily search limit.
+
